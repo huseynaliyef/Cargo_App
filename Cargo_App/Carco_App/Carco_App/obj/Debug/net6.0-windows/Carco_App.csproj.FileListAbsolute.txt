@@ -1,0 +1,70 @@
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Carco_App\Carco_App\bin\Debug\net6.0-windows\Carco_App.exe
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Carco_App\Carco_App\bin\Debug\net6.0-windows\Carco_App.deps.json
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Carco_App\Carco_App\bin\Debug\net6.0-windows\Carco_App.runtimeconfig.json
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Carco_App\Carco_App\bin\Debug\net6.0-windows\Carco_App.dll
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Carco_App\Carco_App\bin\Debug\net6.0-windows\Carco_App.pdb
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.Form1.resources
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.csproj.GenerateResource.cache
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.AssemblyInfoInputs.cache
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.AssemblyInfo.cs
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.dll
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Carco_App\Carco_App\obj\Debug\net6.0-windows\refint\Carco_App.dll
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.pdb
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.genruntimeconfig.cache
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Carco_App\Carco_App\obj\Debug\net6.0-windows\ref\Carco_App.dll
+C:\C# proyektlerim\Carco_App\Carco_App\Carco_App\bin\Debug\net6.0-windows\Carco_App.exe
+C:\C# proyektlerim\Carco_App\Carco_App\Carco_App\bin\Debug\net6.0-windows\Carco_App.deps.json
+C:\C# proyektlerim\Carco_App\Carco_App\Carco_App\bin\Debug\net6.0-windows\Carco_App.runtimeconfig.json
+C:\C# proyektlerim\Carco_App\Carco_App\Carco_App\bin\Debug\net6.0-windows\Carco_App.dll
+C:\C# proyektlerim\Carco_App\Carco_App\Carco_App\bin\Debug\net6.0-windows\Carco_App.pdb
+C:\C# proyektlerim\Carco_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.csproj.AssemblyReference.cache
+C:\C# proyektlerim\Carco_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.Form1.resources
+C:\C# proyektlerim\Carco_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.csproj.GenerateResource.cache
+C:\C# proyektlerim\Carco_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# proyektlerim\Carco_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.AssemblyInfoInputs.cache
+C:\C# proyektlerim\Carco_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.AssemblyInfo.cs
+C:\C# proyektlerim\Carco_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.csproj.CoreCompileInputs.cache
+C:\C# proyektlerim\Carco_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.dll
+C:\C# proyektlerim\Carco_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\refint\Carco_App.dll
+C:\C# proyektlerim\Carco_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.pdb
+C:\C# proyektlerim\Carco_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.genruntimeconfig.cache
+C:\C# proyektlerim\Carco_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\ref\Carco_App.dll
+C:\Users\ASUS TUF GAMING\Desktop\Carco_App\Carco_App\Carco_App\bin\Debug\net6.0-windows\Carco_App.exe
+C:\Users\ASUS TUF GAMING\Desktop\Carco_App\Carco_App\Carco_App\bin\Debug\net6.0-windows\Carco_App.deps.json
+C:\Users\ASUS TUF GAMING\Desktop\Carco_App\Carco_App\Carco_App\bin\Debug\net6.0-windows\Carco_App.runtimeconfig.json
+C:\Users\ASUS TUF GAMING\Desktop\Carco_App\Carco_App\Carco_App\bin\Debug\net6.0-windows\Carco_App.dll
+C:\Users\ASUS TUF GAMING\Desktop\Carco_App\Carco_App\Carco_App\bin\Debug\net6.0-windows\Carco_App.pdb
+C:\Users\ASUS TUF GAMING\Desktop\Carco_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF GAMING\Desktop\Carco_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.Form1.resources
+C:\Users\ASUS TUF GAMING\Desktop\Carco_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.csproj.GenerateResource.cache
+C:\Users\ASUS TUF GAMING\Desktop\Carco_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS TUF GAMING\Desktop\Carco_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.AssemblyInfoInputs.cache
+C:\Users\ASUS TUF GAMING\Desktop\Carco_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.AssemblyInfo.cs
+C:\Users\ASUS TUF GAMING\Desktop\Carco_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF GAMING\Desktop\Carco_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.dll
+C:\Users\ASUS TUF GAMING\Desktop\Carco_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\refint\Carco_App.dll
+C:\Users\ASUS TUF GAMING\Desktop\Carco_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.pdb
+C:\Users\ASUS TUF GAMING\Desktop\Carco_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.genruntimeconfig.cache
+C:\Users\ASUS TUF GAMING\Desktop\Carco_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\ref\Carco_App.dll
+C:\Users\ASUS TUF GAMING\Desktop\Carco_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.Properties.Resources.resources
+C:\Users\ASUS TUF GAMING\Desktop\Cargo_App\Carco_App\Carco_App\bin\Debug\net6.0-windows\Carco_App.exe
+C:\Users\ASUS TUF GAMING\Desktop\Cargo_App\Carco_App\Carco_App\bin\Debug\net6.0-windows\Carco_App.deps.json
+C:\Users\ASUS TUF GAMING\Desktop\Cargo_App\Carco_App\Carco_App\bin\Debug\net6.0-windows\Carco_App.runtimeconfig.json
+C:\Users\ASUS TUF GAMING\Desktop\Cargo_App\Carco_App\Carco_App\bin\Debug\net6.0-windows\Carco_App.dll
+C:\Users\ASUS TUF GAMING\Desktop\Cargo_App\Carco_App\Carco_App\bin\Debug\net6.0-windows\Carco_App.pdb
+C:\Users\ASUS TUF GAMING\Desktop\Cargo_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF GAMING\Desktop\Cargo_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.Form1.resources
+C:\Users\ASUS TUF GAMING\Desktop\Cargo_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.Properties.Resources.resources
+C:\Users\ASUS TUF GAMING\Desktop\Cargo_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.csproj.GenerateResource.cache
+C:\Users\ASUS TUF GAMING\Desktop\Cargo_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS TUF GAMING\Desktop\Cargo_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.AssemblyInfoInputs.cache
+C:\Users\ASUS TUF GAMING\Desktop\Cargo_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.AssemblyInfo.cs
+C:\Users\ASUS TUF GAMING\Desktop\Cargo_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF GAMING\Desktop\Cargo_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.dll
+C:\Users\ASUS TUF GAMING\Desktop\Cargo_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\refint\Carco_App.dll
+C:\Users\ASUS TUF GAMING\Desktop\Cargo_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.pdb
+C:\Users\ASUS TUF GAMING\Desktop\Cargo_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\Carco_App.genruntimeconfig.cache
+C:\Users\ASUS TUF GAMING\Desktop\Cargo_App\Carco_App\Carco_App\obj\Debug\net6.0-windows\ref\Carco_App.dll
